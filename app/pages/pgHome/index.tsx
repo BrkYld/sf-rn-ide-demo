@@ -28,7 +28,7 @@ export const headerBar = {
     View: HeaderView,
     hasCustomView: false
 };
-// tree
+
 export default (props: IPageProps) => {
     const { styles } = useContext(ThemeContext);
     useEffect(() => {
