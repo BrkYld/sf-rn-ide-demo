@@ -1,0 +1,53 @@
+{
+	"components": [
+		{
+			"className": ".view .navItem",
+			"id": "8bb2acd2-2249-41ed-bb04-58a771d1151a",
+			"props": {
+				"children": [
+					"10502e0e-b288-48ea-ae45-5313a6d186e2",
+					"b2bd3901-e9e6-4e38-af34-55db20e48b44"
+				],
+				"name": "actionItem",
+				"parent": "57f4-201f-4bfc-5fc6"
+			},
+			"source": {
+				"page": "__library__"
+			},
+			"type": "View",
+			"userProps": {
+				"left": 258.54,
+				"top": 685.37
+			}
+		},
+		{
+			"className": ".view .avatar",
+			"id": "10502e0e-b288-48ea-ae45-5313a6d186e2",
+			"props": {
+				"children": [],
+				"name": "avatar",
+				"parent": "8bb2acd2-2249-41ed-bb04-58a771d1151a"
+			},
+			"source": {
+				"name": "View",
+				"type": "View"
+			},
+			"type": "View",
+			"userProps": {}
+		},
+		{
+			"className": ".text .actionItem-text1",
+			"id": "b2bd3901-e9e6-4e38-af34-55db20e48b44",
+			"props": {
+				"children": [],
+				"name": "text1",
+				"parent": "8bb2acd2-2249-41ed-bb04-58a771d1151a",
+				"text": "Action"
+			},
+			"type": "Text",
+			"userProps": {
+				"text": "Action"
+			}
+		}
+	]
+}

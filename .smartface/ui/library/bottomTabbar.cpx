@@ -2,7 +2,7 @@
 	"components": [
 		{
 			"className": ".bottomTabbar",
-			"hiddenComponent": false,
+			"hiddenComponent": true,
 			"id": "9bba-1b7f-a72e-ec49",
 			"props": {
 				"children": [

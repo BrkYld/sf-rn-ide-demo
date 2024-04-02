@@ -24,6 +24,16 @@
     },
     "&-solidMainBackground": {
       "backgroundColor": "${mainColor}"
+    },
+    "&-txtGotoAccount": {
+      "color": "${iconColor}"
+    },
+    "&-pgHome": {
+      "backgroundColor": "${white}"
+    },
+    "&-accountCard": {
+      "backgroundColor": "${white}",
+      "borderColor": "${backgroundColor}"
     }
   },
   "#pgHome-headerView": {
@@ -44,7 +54,8 @@
   },
   "#pgHome-pgHome": {
     "paddingLeft": 0,
-    "paddingRight": 0
+    "paddingRight": 0,
+    "backgroundColor": "#ffffff"
   },
   "#pgHome-iconContainer": {
     "width": null,
@@ -101,11 +112,51 @@
     "backgroundColor": "#009142"
   },
   "#pgHome-accountCard": {
-    "width": 200,
     "height": 300,
     "position": "absolute",
-    "backgroundColor": "rgba( 255, 255, 255, 1 )",
+    "backgroundColor": "#ffffff",
     "top": 200,
-    "right": 115
+    "width": 380,
+    "left": 25,
+    "borderRadius": 8,
+    "borderWidth": 1,
+    "borderColor": "rgba( 231, 231, 231, 1 )"
+  },
+  "#pgHome-titleContainer": {
+    "width": null,
+    "height": 50,
+    "flexDirection": "row",
+    "justifyContent": "space-between",
+    "alignItems": "center",
+    "padding": 10
+  },
+  "#pgHome-image2": {
+    "width": 25,
+    "height": 25,
+    "tintColor": "rgba( 155, 155, 155, 0.69 )"
+  },
+  "#pgHome-accountDetailContainer": {
+    "width": null,
+    "height": 150,
+    "padding": 10
+  },
+  "#pgHome-txtBalanceDesc": {
+    "color": "rgba( 155, 155, 155, 1 )",
+    "fontSize": 15,
+    "marginBottom": 15
+  },
+  "#pgHome-txtBalance": {
+    "fontSize": 25,
+    "marginBottom": 15
+  },
+  "#pgHome-txtGotoAccount": {
+    "fontSize": 17,
+    "color": "rgba( 67, 179, 153, 1 )"
+  },
+  "#pgHome-lastActionContainer": {
+    "width": null,
+    "height": 95,
+    "flexDirection": "row",
+    "justifyContent": "space-around"
   }
 }

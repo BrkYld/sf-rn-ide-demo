@@ -1,0 +1,11 @@
+{
+  ".navItem": {
+    "height": null,
+    "minHeight": 75,
+    "width": null,
+    "minWidth": null,
+    "maxWidth": 75,
+    "alignItems": "center",
+    "justifyContent": "flex-start"
+  }
+}
