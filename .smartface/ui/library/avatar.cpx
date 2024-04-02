@@ -1,0 +1,40 @@
+{
+	"components": [
+		{
+			"className": ".view .avatar",
+			"id": "2d8c811f-dc95-4fd1-8f16-675363afdb2b",
+			"props": {
+				"children": [
+					"e3bf-257a-7577-8032"
+				],
+				"name": "avatar",
+				"parent": "57f4-201f-4bfc-5fc6"
+			},
+			"source": {
+				"page": "__library__"
+			},
+			"type": "View",
+			"userProps": {
+				"left": 53.66,
+				"top": 318.29
+			}
+		},
+		{
+			"className": ".image .avatar-image1",
+			"id": "e3bf-257a-7577-8032",
+			"props": {
+				"children": [],
+				"name": "image1",
+				"parent": "2d8c811f-dc95-4fd1-8f16-675363afdb2b",
+				"source": "garanti.png"
+			},
+			"source": {
+				"page": "__library__"
+			},
+			"type": "Image",
+			"userProps": {
+				"source": "garanti.png"
+			}
+		}
+	]
+}

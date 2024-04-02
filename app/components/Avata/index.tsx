@@ -7,5 +7,5 @@ type IComponentProps = {
 };
 export default (props: any) => {
     const { styles } = useContext(ThemeContext);
-    return (<View style={[styles[".view"]]}/>);
+    return (<View style={[styles[".view"], props.style]}/>);
 };

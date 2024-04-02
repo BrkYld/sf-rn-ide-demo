@@ -1,10 +1,111 @@
 {
   "#pgHome-headerBar": {
-    "backgroundColor": "#009142"
+    "backgroundColor": "#009142",
+    "alignSelf": "stretch",
+    "flex": 1,
+    "flexShrink": 1,
+    "visible": false
   },
   "#pgHome": {
     "&-headerBar": {
       "backgroundColor": "${mainColor}"
+    },
+    "&-customHeader": {
+      "backgroundColor": "${mainColor}"
+    },
+    "&-iconContainer": {
+      "backgroundColor": "${mainColor}"
+    },
+    "&-iconsContainer": {
+      "backgroundColor": "${mainColor}"
+    },
+    "&-segmentContainer": {
+      "backgroundColor": "${mainColor}"
+    },
+    "&-solidMainBackground": {
+      "backgroundColor": "${mainColor}"
     }
+  },
+  "#pgHome-headerView": {
+    "height": 44,
+    "width": null,
+    "flexDirection": "row",
+    "alignItems": "stretch"
+  },
+  "#pgHome-customHeader": {
+    "width": null,
+    "height": 150,
+    "backgroundColor": "#009142",
+    "flexDirection": "row",
+    "alignItems": "flex-end",
+    "justifyContent": "center",
+    "paddingLeft": 10,
+    "paddingRight": 10
+  },
+  "#pgHome-pgHome": {
+    "paddingLeft": 0,
+    "paddingRight": 0
+  },
+  "#pgHome-iconContainer": {
+    "width": null,
+    "height": 100,
+    "flex": 1,
+    "flexShrink": 1,
+    "backgroundColor": "#009142"
+  },
+  "#pgHome-segmentContainer": {
+    "width": null,
+    "height": 50,
+    "backgroundColor": "#009142",
+    "flexDirection": "row",
+    "alignItems": "center",
+    "paddingLeft": 10
+  },
+  "#pgHome-iconsContainer": {
+    "flex": 1,
+    "flexShrink": 1,
+    "backgroundColor": "#009142",
+    "height": 75,
+    "flexDirection": "row"
+  },
+  "#pgHome-leftSide": {
+    "flexDirection": "row",
+    "alignItems": "center",
+    "justifyContent": "flex-start",
+    "height": null,
+    "width": null,
+    "flex": 1,
+    "flexShrink": 1
+  },
+  "#pgHome-rightSide": {
+    "flexDirection": "row",
+    "alignItems": "center",
+    "justifyContent": "flex-end",
+    "flex": 1,
+    "flexShrink": 1,
+    "height": null,
+    "width": null
+  },
+  "#pgHome-segmentActive": {
+    "color": "rgba( 255, 255, 255, 1 )",
+    "fontSize": 20,
+    "marginRight": 5
+  },
+  "#pgHome-segmentPassive": {
+    "fontSize": 18,
+    "color": "rgba( 255, 255, 255, 0.54 )"
+  },
+  "#pgHome-solidMainBackground": {
+    "height": 150,
+    "width": null,
+    "backgroundColor": "#009142"
+  },
+  "#pgHome-accountCard": {
+    "width": 200,
+    "height": 300,
+    "position": "absolute",
+    "backgroundColor": "rgba( 255, 255, 255, 1 )",
+    "top": 200,
+    "right": 115
   }
 }
