@@ -1,0 +1,93 @@
+{
+  "#pgATM-headerBar": {
+    "backgroundColor": "#009142"
+  },
+  "#pgATM-headerView": {
+    "height": 44,
+    "width": null,
+    "flexDirection": "row",
+    "alignItems": "stretch"
+  },
+  "#pgATM-contentContainer": {
+    "height": null,
+    "width": null,
+    "alignItems": "stretch",
+    "alignSelf": "stretch"
+  },
+  "#pgATM": {
+    "&-headerBar": {
+      "backgroundColor": "${mainColor}"
+    },
+    "&-imgDoitFromHome": {
+      "tintColor": "${iconColor}"
+    },
+    "&-txtDetail": {
+      "color": "${iconColor}"
+    },
+    "&-pgATM": {
+      "backgroundColor": "${backgroundColor}"
+    }
+  },
+  "#pgATM-pgATM": {
+    "paddingLeft": 0,
+    "paddingRight": 0,
+    "backgroundColor": "rgba( 231, 231, 231, 1 )"
+  },
+  "#pgATM-flatList1": {
+    "paddingLeft": 10,
+    "paddingRight": 10,
+    "height": 150,
+    "marginTop": 10,
+    "backgroundColor": "rgba( 255, 255, 255, 1 )"
+  },
+  "#pgATM-doItFromHomeContainer": {
+    "alignSelf": "stretch",
+    "width": null,
+    "minHeight": 200,
+    "height": null,
+    "padding": 20
+  },
+  "#pgATM-wrapper": {
+    "width": null,
+    "height": null,
+    "flex": 1,
+    "flexShrink": 1,
+    "borderRadius": 16,
+    "backgroundColor": "rgba( 255, 255, 255, 1 )",
+    "flexDirection": "row",
+    "padding": 10
+  },
+  "#pgATM-imgWrapper": {
+    "width": null,
+    "flex": 1,
+    "flexShrink": 1,
+    "height": null,
+    "alignItems": "center"
+  },
+  "#pgATM-descWrapper": {
+    "width": null,
+    "height": null,
+    "flex": 5,
+    "flexShrink": 1
+  },
+  "#pgATM-imgDoitFromHome": {
+    "height": 35,
+    "width": 35,
+    "tintColor": "rgba( 67, 179, 153, 1 )"
+  },
+  "#pgATM-txtBranchDesc": {
+    "fontSize": 20,
+    "fontFamily": "SFProText-Semibold",
+    "marginBottom": 20
+  },
+  "#pgATM-txtOperationDesc": {
+    "color": "rgba( 155, 155, 155, 0.88 )",
+    "marginBottom": 20,
+    "fontSize": 17
+  },
+  "#pgATM-txtDetail": {
+    "fontSize": 16,
+    "fontFamily": "SFProText-Semibold",
+    "color": "rgba( 67, 179, 153, 1 )"
+  }
+}

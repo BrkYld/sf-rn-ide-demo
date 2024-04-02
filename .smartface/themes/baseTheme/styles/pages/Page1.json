@@ -1,0 +1,118 @@
+{
+  "#page1": {
+    "justifyContent": "space-between",
+    "alignItems": "stretch",
+    "paddingBottom": 20,
+    "paddingLeft": 16,
+    "paddingRight": 16,
+    "&-view4": {
+      "backgroundColor": "${mainColor}"
+    }
+  },
+  "#page1-lbl": {
+    "backgroundColor": "rgba( 255, 255, 255, 0 )",
+    "marginLeft": 20,
+    "marginRight": 20,
+    "alignSelf": "stretch",
+    "fontSize": 32,
+    "fontFamily": "SFProText",
+    "textAlign": "center",
+    "color": "${mainTextColor}",
+    "borderWidth": 2,
+    "borderRadius": 2
+  },
+  "#page1-label1": {
+    "fontSize": 36,
+    "textAlign": "center"
+  },
+  "#page1-wrapper": {
+    "flex": 1,
+    "justifyContent": "center"
+  },
+  "#page1-btnNext": {
+    "alignSelf": "auto",
+    "position": "relative"
+  },
+  "#page1-activityIndicator2": {
+    "alignSelf": "center",
+    "width": 51.81,
+    "height": 42.17
+  },
+  "#page1-pressable2": {
+    "shadowColor": "rgba( 208, 2, 27, 1 )",
+    "backgroundColor": "rgba( 126, 211, 33, 1 )",
+    "borderWidth": 20,
+    "borderColor": "rgba( 245, 166, 35, 0.23 )",
+    "flexDirection": "column"
+  },
+  "#page1-imageBackground1": {
+    "backgroundColor": "rgba( 217, 34, 34, 0.33 )",
+    "flex": 1,
+    "borderWidth": 20,
+    "borderRadius": 100,
+    "borderColor": "rgba( 0, 0, 0, 1 )"
+  },
+  "#page1-image1": {
+    "resizeMode": "contain",
+    "alignSelf": "center",
+    "height": 70,
+    "width": 250
+  },
+  "#page1-scrollView1": {
+    "height": 100
+  },
+  "#page1-switch2": {
+    "toggle": true
+  },
+  "#page1-switch3": {
+    "toggle": true
+  },
+  "#page1-switch4": {
+    "toggle": true
+  },
+  "#page1-switch5": {
+    "toggle": true
+  },
+  "#page1-view1": {
+    "justifyContent": "center",
+    "flex": 1,
+    "width": null,
+    "flexDirection": "column",
+    "height": null,
+    "alignSelf": "stretch"
+  },
+  "#page1-page1": {
+    "paddingBottom": 20,
+    "paddingLeft": 16,
+    "paddingRight": 16,
+    "paddingTop": 20,
+    "backgroundColor": "rgba( 254, 254, 254, 1 )"
+  },
+  "#page1-pressable1": {
+    "height": 50,
+    "marginBottom": 20,
+    "backgroundColor": "#00a1f1",
+    "borderRadius": 12
+  },
+  "#page1-text1": {
+    "fontSize": 18,
+    "textAlign": "center",
+    "lineHeight": 50,
+    "color": "rgba( 255, 255, 255, 1 )",
+    "fontFamily": "SFProText-Regular"
+  },
+  "#page1-text2": {
+    "width": null,
+    "alignSelf": "center",
+    "textAlign": "center",
+    "fontSize": 36,
+    "color": "rgba(210, 210, 210, 1)",
+    "height": null
+  },
+  "#page1-textInput1": {
+    "backgroundColor": "rgba( 255, 255, 255, 0 )",
+    "marginTop": 20,
+    "marginBottom": 20
+  },
+  "#page1-p": {}
+}

@@ -1,0 +1,202 @@
+{
+  "#pgWelcome-headerbar": {
+    "visible": false,
+    "transparent": true
+  },
+  "#pgWelcome-container": {
+    "position": "relative",
+    "backgroundColor": "rgba( 255, 255, 255, 0 )",
+    "flex": 1,
+    "flexShrink": 1,
+    "alignSelf": "stretch",
+    "width": null,
+    "height": null,
+    "justifyContent": "flex-start",
+    "flexDirection": "column",
+    "alignItems": "stretch"
+  },
+  "#pgWelcome-avatarIcon": {
+    "width": 130.49,
+    "height": 50
+  },
+  "#pgWelcome-view1": {
+    "flexDirection": "row",
+    "marginTop": 75,
+    "justifyContent": "flex-end",
+    "paddingRight": 20,
+    "height": null,
+    "width": null
+  },
+  "#pgWelcome-imgAvatar": {
+    "width": 30,
+    "height": 30,
+    "tintColor": "rgba( 255, 255, 255, 1 )"
+  },
+  "#pgWelcome-brandTitle": {
+    "backgroundColor": "rgba( 255, 255, 255, 0 )",
+    "width": null,
+    "height": 350,
+    "marginTop": 25,
+    "opacity": 1
+  },
+  "#pgWelcome-avatarContainer": {
+    "backgroundColor": "rgba( 255, 255, 255, 0 )",
+    "height": 125,
+    "width": null,
+    "justifyContent": "flex-start",
+    "alignItems": "center",
+    "flexDirection": "row",
+    "padding": 10
+  },
+  "#pgWelcome-brandAvatar": {
+    "width": 100,
+    "height": 100,
+    "backgroundColor": "rgba( 155, 155, 155, 0.72 )",
+    "justifyContent": "center",
+    "alignSelf": "center",
+    "flexDirection": "column",
+    "alignItems": "center",
+    "borderRadius": 50,
+    "borderWidth": 1,
+    "borderColor": "rgba( 74, 74, 74, 1 )"
+  },
+  "#pgWelcome-imgLogo": {
+    "width": 100,
+    "height": 100,
+    "backgroundColor": "rgba( 255, 255, 255, 0 )",
+    "tintColor": "rgba( 255, 255, 255, 0 )",
+    "resizeMode": "cover"
+  },
+  "#pgWelcome-titleContainer": {
+    "width": null,
+    "height": null,
+    "backgroundColor": "rgba( 255, 255, 255, 0 )",
+    "padding": 15
+  },
+  "#pgWelcome-txtGaranti": {
+    "color": "rgba( 255, 255, 255, 1 )",
+    "textAlign": "left",
+    "fontSize": 18
+  },
+  "#pgWelcome-txtWelcome": {
+    "color": "rgba( 255, 255, 255, 1 )",
+    "fontSize": 25,
+    "marginTop": 5
+  },
+  "#pgWelcome-buttonsContainer": {
+    "width": null,
+    "height": null,
+    "backgroundColor": "rgba( 255, 255, 255, 0 )",
+    "flexDirection": "row",
+    "alignItems": "flex-start",
+    "justifyContent": "center",
+    "padding": 10
+  },
+  "#pgWelcome-btnPersonal": {
+    "backgroundColor": "rgba( 255, 255, 255, 1 )",
+    "alignSelf": "auto",
+    "flexShrink": 1,
+    "margin": 10,
+    "flex": 1,
+    "width": null,
+    "height": 50,
+    "borderRadius": 8,
+    "alignItems": "center",
+    "justifyContent": "center"
+  },
+  "#pgWelcome-txtPersonal": {
+    "fontSize": 21,
+    "color": "rgba( 67, 179, 153, 1 )"
+  },
+  "#pgWelcome-beCustomerWrapper": {
+    "padding": 15,
+    "paddingTop": 0,
+    "height": null,
+    "width": null
+  },
+  "#pgWelcome-txtButtonsContainer": {
+    "width": 500,
+    "height": 500,
+    "flexDirection": "column"
+  },
+  "#pgWelcome-txtBeCustomer": {
+    "color": "rgba( 255, 255, 255, 1 )",
+    "fontSize": 15
+  },
+  "#pgWelcome-txtNearestATM": {
+    "color": "rgba( 255, 255, 255, 1 )",
+    "fontSize": 15
+  },
+  "#pgWelcome-nearestAtmContainer": {
+    "width": null,
+    "height": null,
+    "backgroundColor": "rgba( 255, 255, 255, 0 )",
+    "padding": 15,
+    "paddingTop": 0
+  },
+  "#pgWelcome-bottomSheet": {
+    "backgroundColor": "rgba( 255, 255, 255, 1 )",
+    "position": "relative",
+    "alignItems": "center",
+    "alignSelf": "stretch",
+    "width": null,
+    "height": 150,
+    "borderBottomLeftRadius": 0,
+    "borderBottomRightRadius": 0,
+    "borderTopLeftRadius": 25,
+    "borderTopRightRadius": 25,
+    "justifyContent": "flex-start"
+  },
+  "#pgWelcome-solidGray": {
+    "backgroundColor": "rgba( 155, 155, 155, 0.57 )",
+    "alignSelf": "center",
+    "width": 35,
+    "height": 5,
+    "marginTop": 5,
+    "borderRadius": 50
+  },
+  "#pgWelcome-gridItemsContainer": {
+    "flex": 1,
+    "flexShrink": 1,
+    "alignSelf": "stretch",
+    "height": null,
+    "width": null,
+    "marginTop": 5,
+    "marginBottom": 5,
+    "marginLeft": 5,
+    "marginRight": 5,
+    "margin": 5,
+    "flexDirection": "row",
+    "justifyContent": "space-evenly"
+  },
+  "#pgWelcome-item1": {
+    "height": 150,
+    "width": 75,
+    "justifyContent": "flex-start",
+    "alignItems": "center"
+  },
+  "#pgWelcome-container1": {
+    "width": 40,
+    "height": 40,
+    "marginTop": 10,
+    "marginBottom": 10,
+    "alignItems": "center",
+    "justifyContent": "center",
+    "borderRadius": 15,
+    "backgroundColor": "rgba( 155, 155, 155, 0.34 )"
+  },
+  "#pgWelcome-txt1": {
+    "width": null,
+    "fontSize": 12,
+    "color": "rgba( 0, 0, 0, 1 )",
+    "textAlign": "center",
+    "height": null,
+    "minHeight": 35
+  },
+  "#pgWelcome-img1": {
+    "width": 20,
+    "height": 20,
+    "alignSelf": "center",
+    "tintColor": "rgba( 67, 179, 153, 1 )"
+  }
+}

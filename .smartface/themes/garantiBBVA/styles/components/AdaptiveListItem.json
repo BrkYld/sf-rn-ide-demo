@@ -1,0 +1,7 @@
+{
+  ".adaptiveListItem-separator": {
+    "height": 1,
+    "alignSelf": "stretch",
+    "alignItems": "stretch"
+  }
+}

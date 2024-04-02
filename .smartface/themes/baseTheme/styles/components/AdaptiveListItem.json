@@ -1,0 +1,33 @@
+{
+  ".adaptiveListItem": {
+    "width": null,
+    "height": 50,
+    "alignSelf": "stretch"
+  },
+  ".adaptiveListItem-itemContainer": {
+    "width": null,
+    "height": 49,
+    "alignSelf": "stretch",
+    "flexDirection": "row",
+    "justifyContent": "space-between",
+    "alignItems": "center"
+  },
+  ".adaptiveListItem-separator": {
+    "width": null,
+    "height": 1,
+    "borderColor": "rgba( 155, 155, 155, 1 )"
+  },
+  ".adaptiveListItem-text1": {
+    "flex": 8,
+    "flexShrink": 1,
+    "fontSize": 16
+  },
+  ".adaptiveListItem-image1": {
+    "flex": 1,
+    "flexShrink": 1,
+    "width": 15,
+    "height": 15,
+    "alignSelf": "center",
+    "tintColor": "rgba( 155, 155, 155, 1 )"
+  }
+}

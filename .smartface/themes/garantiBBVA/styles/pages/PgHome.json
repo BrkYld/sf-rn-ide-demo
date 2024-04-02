@@ -1,0 +1,10 @@
+{
+  "#pgHome-headerBar": {
+    "backgroundColor": "#009142"
+  },
+  "#pgHome": {
+    "&-headerBar": {
+      "backgroundColor": "${mainColor}"
+    }
+  }
+}
