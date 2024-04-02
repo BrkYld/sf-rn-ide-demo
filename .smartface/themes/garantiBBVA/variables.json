@@ -1,0 +1,10 @@
+{
+    "mainColor": "#009142",
+    "mainLight": "#009142",
+    "mainDark": "#009142",
+    "mainTextColor": "rgba(210, 210, 210, 1)",
+    "separator": "rgba(222, 222, 222, 1)",
+    "white": "#ffffff",
+    "iconColor": "rgba( 67, 179, 153, 1 )",
+    "backgroundColor": "rgba( 231, 231, 231, 1 )"
+}

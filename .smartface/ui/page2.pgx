@@ -1,0 +1,113 @@
+{
+	"components": [
+		{
+			"className": ".page",
+			"id": "7da21f6f-c7e9-46e5-b812-1cccd9c3ead6",
+			"initialized": true,
+			"props": {
+				"children": [
+					"70d261a5-4653-4c43-9bc8-ef5300273e39",
+					"812847c2-3919-4a21-bcde-52cb47f82192",
+					"e18a717c-0395-4706-9e94-cf83795e3a1e",
+					"5643bcf4-51b8-41e2-8510-2c596143dcb1"
+				],
+				"name": "page2",
+				"safeAreaView": false
+			},
+			"type": "Page",
+			"userProps": {
+				"safeAreaView": false
+			}
+		},
+		{
+			"className": "",
+			"id": "70d261a5-4653-4c43-9bc8-ef5300273e39",
+			"props": {
+				"animated": false,
+				"backgroundColor": "rgba( 74, 144, 226, 1 )",
+				"barStyle": "dark-content",
+				"children": [],
+				"hidden": false,
+				"name": "statusBar1",
+				"parent": "7da21f6f-c7e9-46e5-b812-1cccd9c3ead6",
+				"showHideTransition": "fade"
+			},
+			"type": "StatusBar",
+			"userProps": {
+				"animated": false,
+				"backgroundColor": "rgba( 74, 144, 226, 1 )",
+				"barStyle": "dark-content",
+				"hidden": false,
+				"showHideTransition": "fade"
+			}
+		},
+		{
+			"className": ".headerBar",
+			"id": "812847c2-3919-4a21-bcde-52cb47f82192",
+			"props": {
+				"children": [],
+				"name": "headerBar",
+				"parent": "7da21f6f-c7e9-46e5-b812-1cccd9c3ead6",
+				"title": "Page2"
+			},
+			"type": "HeaderBar",
+			"userProps": {
+				"title": "Page2"
+			}
+		},
+		{
+			"className": ".view #page1-view1",
+			"id": "e18a717c-0395-4706-9e94-cf83795e3a1e",
+			"props": {
+				"children": [
+					"8b8c9b2e-8c44-4df6-9b88-f593ebbedf8c"
+				],
+				"name": "view1",
+				"parent": "7da21f6f-c7e9-46e5-b812-1cccd9c3ead6"
+			},
+			"type": "View",
+			"userProps": {}
+		},
+		{
+			"className": ".text #page1-text2",
+			"id": "8b8c9b2e-8c44-4df6-9b88-f593ebbedf8c",
+			"props": {
+				"children": [],
+				"name": "text2",
+				"parent": "e18a717c-0395-4706-9e94-cf83795e3a1e",
+				"text": "Page2"
+			},
+			"type": "Text",
+			"userProps": {
+				"text": "Page2"
+			}
+		},
+		{
+			"className": ".pressable #page1-pressable1",
+			"id": "5643bcf4-51b8-41e2-8510-2c596143dcb1",
+			"props": {
+				"children": [
+					"867f1c8d-94a2-4820-936e-7f35d4d9ff09"
+				],
+				"name": "pressable1",
+				"parent": "7da21f6f-c7e9-46e5-b812-1cccd9c3ead6"
+			},
+			"type": "Pressable",
+			"userProps": {}
+		},
+		{
+			"className": ".text #page1-text1",
+			"id": "867f1c8d-94a2-4820-936e-7f35d4d9ff09",
+			"props": {
+				"children": [],
+				"name": "text3",
+				"parent": "5643bcf4-51b8-41e2-8510-2c596143dcb1",
+				"text": "Modal Page"
+			},
+			"type": "Text",
+			"userProps": {
+				"text": "Modal Page"
+			}
+		}
+	]
+}

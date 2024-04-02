@@ -1,0 +1,112 @@
+{
+	"components": [
+		{
+			"className": ".bottomTabbar",
+			"hiddenComponent": false,
+			"id": "9bba-1b7f-a72e-ec49",
+			"props": {
+				"children": [
+					"96cb-58a1-0024-58f2",
+					"2730-b42f-f9d6-af79",
+					"cad7-b85b-5608-9c36"
+				],
+				"name": "bottomTabbar",
+				"parent": "57f4-201f-4bfc-5fc6"
+			},
+			"source": {
+				"page": "__library__"
+			},
+			"type": "BottomTabbar",
+			"userProps": {
+				"backgroundColor": "#FF0000",
+				"itemColor": {
+					"normal": "#00A1F1",
+					"selected": "#FFFFFF"
+				}
+			}
+		},
+		{
+			"className": ".tabbarItem .bottomTabbar-tabbarItem1",
+			"id": "96cb-58a1-0024-58f2",
+			"props": {
+				"children": [],
+				"icon": {
+					"normal": "home.png",
+					"selected": "close_icon.png",
+					"active": "svgs/home.svg",
+					"inactive": "svgs/home.svg"
+				},
+				"name": "tabbarItem1",
+				"parent": "9bba-1b7f-a72e-ec49",
+				"text": "Home"
+			},
+			"source": {
+				"page": "__library__"
+			},
+			"type": "TabbarItem",
+			"userProps": {
+				"icon": {
+					"normal": "home.png",
+					"selected": "close_icon.png"
+				},
+				"text": "Home"
+			}
+		},
+		{
+			"className": ".tabbarItem .bottomTabbar-tabbarItem11",
+			"id": "2730-b42f-f9d6-af79",
+			"oldName": "tabBarItem2",
+			"props": {
+				"children": [],
+				"icon": {
+					"normal": "smartface.png",
+					"selected": "keyboardlayout_up.png",
+					"active": "svgs/settings.svg",
+					"inactive": "svgs/settings.svg"
+				},
+				"name": "tabbarItem11",
+				"parent": "9bba-1b7f-a72e-ec49",
+				"text": "Settings"
+			},
+			"source": {
+				"page": "__library__"
+			},
+			"type": "TabbarItem",
+			"userProps": {
+				"icon": {
+					"normal": "smartface.png",
+					"selected": "keyboardlayout_up.png"
+				},
+				"text": "Settings"
+			}
+		},
+		{
+			"className": ".tabbarItem .bottomTabbar-tabbarItem12",
+			"id": "cad7-b85b-5608-9c36",
+			"oldName": "tabBarItem3",
+			"props": {
+				"children": [],
+				"icon": {
+					"normal": "arrow_back.png",
+					"selected": "keyboardlayout_down.png",
+					"active": "svgs/profile.svg",
+					"inactive": "svgs/profile.svg"
+				},
+				"name": "tabbarItem12",
+				"parent": "9bba-1b7f-a72e-ec49",
+				"text": "Profile"
+			},
+			"source": {
+				"page": "__library__"
+			},
+			"type": "TabbarItem",
+			"userProps": {
+				"icon": {
+					"normal": "arrow_back.png",
+					"selected": "keyboardlayout_down.png"
+				},
+				"text": "Profile"
+			}
+		}
+	]
+}

@@ -1,0 +1,28 @@
+// prettier-ignore
+{
+    "extends": "@tsconfig/react-native/tsconfig.json", /* Recommended React Native TSConfig base */
+    "compilerOptions": {
+        "jsx": "react",
+        /* Visit https://aka.ms/tsconfig.json to read more about this file */
+        /* Completeness */
+        "skipLibCheck": true, /* Skip type checking all .d.ts files. */
+        "baseUrl": ".",
+        "paths": {
+            "@smartface-generated/*": [
+                ".smartface/generated/*"
+            ],
+            "@app/*": [
+                "app/*"
+            ]
+        },
+        "forceConsistentCasingInFileNames": false
+    },
+    "include": [
+        "./.smartface/**/*",
+        "./app/**/*"
+    ],
+    "lib": [
+        ".smartface",
+        "app"
+    ]
+}

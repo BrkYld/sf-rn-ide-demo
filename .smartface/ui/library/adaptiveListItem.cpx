@@ -1,0 +1,79 @@
+{
+	"components": [
+		{
+			"className": ".view .adaptiveListItem",
+			"id": "80b9fa9a-8ef6-4450-b807-a08adda386a0",
+			"props": {
+				"children": [
+					"49f4505d-0a9e-45e2-941c-da9e535eb9d1",
+					"57fd5a4a-a1eb-47df-a2d0-918571f8bc85"
+				],
+				"name": "adaptiveListItem",
+				"parent": "57f4-201f-4bfc-5fc6"
+			},
+			"source": {
+				"page": "__library__"
+			},
+			"type": "View",
+			"userProps": {
+				"left": 30,
+				"top": 202.22
+			}
+		},
+		{
+			"className": ".view .adaptiveListItem-itemContainer",
+			"id": "49f4505d-0a9e-45e2-941c-da9e535eb9d1",
+			"props": {
+				"children": [
+					"5f012b55-d582-4216-8c42-f1e691c8950d",
+					"2b399262-a4de-4161-b421-38a508af9604"
+				],
+				"name": "itemContainer",
+				"parent": "80b9fa9a-8ef6-4450-b807-a08adda386a0"
+			},
+			"type": "View",
+			"userProps": {}
+		},
+		{
+			"className": ".text .adaptiveListItem-text1",
+			"id": "5f012b55-d582-4216-8c42-f1e691c8950d",
+			"props": {
+				"children": [],
+				"name": "text1",
+				"numberOfLines": 2,
+				"parent": "49f4505d-0a9e-45e2-941c-da9e535eb9d1",
+				"text": "Adaptive List Item Title"
+			},
+			"type": "Text",
+			"userProps": {
+				"numberOfLines": 2,
+				"text": "Adaptive List Item Title"
+			}
+		},
+		{
+			"className": ".image .adaptiveListItem-image1",
+			"id": "2b399262-a4de-4161-b421-38a508af9604",
+			"props": {
+				"children": [],
+				"name": "image1",
+				"parent": "49f4505d-0a9e-45e2-941c-da9e535eb9d1",
+				"source": "arrow_right.png"
+			},
+			"type": "Image",
+			"userProps": {
+				"source": "arrow_right.png"
+			}
+		},
+		{
+			"className": ".view .adaptiveListItem-separator",
+			"id": "57fd5a4a-a1eb-47df-a2d0-918571f8bc85",
+			"props": {
+				"children": [],
+				"name": "separator",
+				"parent": "80b9fa9a-8ef6-4450-b807-a08adda386a0"
+			},
+			"type": "View",
+			"userProps": {}
+		}
+	]
+}
