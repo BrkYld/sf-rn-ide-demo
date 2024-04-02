@@ -2,11 +2,11 @@
 	"components": [
 		{
 			"className": ".view .adaptiveListItem",
-			"id": "a75fd423-3fa6-4a29-95fc-edb461bb555e",
+			"id": "5c476451-8ef8-42e5-937a-938c74b1de1c",
 			"props": {
 				"children": [
-					"d375ea71-87d4-432a-be9a-69d0e78e988c",
-					"77c7d5c8-df5c-47dd-8d99-3153aa8be672"
+					"02ba6b4a-5525-44f3-a58b-af915a96fece",
+					"73340661-bd58-4d2c-85d1-3f390e9d4ceb"
 				],
 				"name": "adaptiveListItem",
 				"parent": "57f4-201f-4bfc-5fc6"
@@ -22,26 +22,26 @@
 		},
 		{
 			"className": ".view .adaptiveListItem-itemContainer",
-			"id": "d375ea71-87d4-432a-be9a-69d0e78e988c",
+			"id": "02ba6b4a-5525-44f3-a58b-af915a96fece",
 			"props": {
 				"children": [
-					"c5e6fc8c-fad2-457c-a8f3-7668cfa19022",
-					"daabc3af-a796-481c-afd4-0e1ea5308f55"
+					"c91d86e5-3a3a-436a-9ae2-3ac868fe5823",
+					"8bb1e6ec-2d7d-490c-b824-48ffee4da905"
 				],
 				"name": "itemContainer",
-				"parent": "a75fd423-3fa6-4a29-95fc-edb461bb555e"
+				"parent": "5c476451-8ef8-42e5-937a-938c74b1de1c"
 			},
 			"type": "View",
 			"userProps": {}
 		},
 		{
 			"className": ".text .adaptiveListItem-text1",
-			"id": "c5e6fc8c-fad2-457c-a8f3-7668cfa19022",
+			"id": "c91d86e5-3a3a-436a-9ae2-3ac868fe5823",
 			"props": {
 				"children": [],
 				"name": "text1",
 				"numberOfLines": 2,
-				"parent": "d375ea71-87d4-432a-be9a-69d0e78e988c",
+				"parent": "02ba6b4a-5525-44f3-a58b-af915a96fece",
 				"text": "Adaptive List Item Title"
 			},
 			"type": "Text",
@@ -52,11 +52,11 @@
 		},
 		{
 			"className": ".image .adaptiveListItem-image1",
-			"id": "daabc3af-a796-481c-afd4-0e1ea5308f55",
+			"id": "8bb1e6ec-2d7d-490c-b824-48ffee4da905",
 			"props": {
 				"children": [],
 				"name": "image1",
-				"parent": "d375ea71-87d4-432a-be9a-69d0e78e988c",
+				"parent": "02ba6b4a-5525-44f3-a58b-af915a96fece",
 				"source": "arrow_right.png"
 			},
 			"type": "Image",
@@ -66,11 +66,11 @@
 		},
 		{
 			"className": ".view .adaptiveListItem-separator",
-			"id": "77c7d5c8-df5c-47dd-8d99-3153aa8be672",
+			"id": "73340661-bd58-4d2c-85d1-3f390e9d4ceb",
 			"props": {
 				"children": [],
 				"name": "separator",
-				"parent": "a75fd423-3fa6-4a29-95fc-edb461bb555e"
+				"parent": "5c476451-8ef8-42e5-937a-938c74b1de1c"
 			},
 			"type": "View",
 			"userProps": {}
