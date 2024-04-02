@@ -34,6 +34,9 @@
     "&-accountCard": {
       "backgroundColor": "${white}",
       "borderColor": "${backgroundColor}"
+    },
+    "&-txtGoToAccountActivities": {
+      "color": "${iconColor}"
     }
   },
   "#pgHome-headerView": {
@@ -158,5 +161,56 @@
     "height": 95,
     "flexDirection": "row",
     "justifyContent": "space-around"
+  },
+  "#pgHome-bottomContainer": {
+    "alignSelf": "stretch",
+    "position": "relative",
+    "width": null,
+    "backgroundColor": "rgba( 255, 255, 255, 0 )",
+    "marginTop": 150,
+    "height": 400,
+    "padding": 10
+  },
+  "#pgHome-lastActionCard": {
+    "width": null,
+    "height": 200,
+    "padding": 10
+  },
+  "#pgHome-lastActionTitleContainer": {
+    "height": 50,
+    "width": null,
+    "flexDirection": "row",
+    "alignItems": "center"
+  },
+  "#pgHome-txtLastAction": {
+    "fontSize": 20
+  },
+  "#pgHome-txtDate": {
+    "fontSize": 15,
+    "color": "rgba( 74, 74, 74, 0.68 )"
+  },
+  "#pgHome-lastActionDetailContainer": {
+    "width": null,
+    "height": 125
+  },
+  "#pgHome-lastActionDetailTypeContainer": {
+    "width": null,
+    "height": 35,
+    "flexDirection": "row",
+    "alignItems": "center",
+    "justifyContent": "space-between"
+  },
+  "#pgHome-txtTypeDesc": {
+    "fontSize": 18
+  },
+  "#pgHome-txtTypeDetail": {
+    "fontSize": 18,
+    "color": "rgba( 155, 155, 155, 0.66 )",
+    "marginTop": 5
+  },
+  "#pgHome-txtGoToAccountActivities": {
+    "fontSize": 15,
+    "color": "rgba( 67, 179, 153, 1 )",
+    "marginTop": 5
   }
 }
