@@ -2,11 +2,11 @@
 	"components": [
 		{
 			"className": ".view .navItem",
-			"id": "f92278a7-815e-4320-ae9d-98c900fded59",
+			"id": "12c8083d-1265-4596-a1e0-47e1583587f3",
 			"props": {
 				"children": [
-					"f8717fa1-72f7-4f7c-8601-54dabd0a168b",
-					"92be0d2e-7943-49d7-a823-54b9438aec5b"
+					"abb61443-cee0-41c6-b224-a8839ee2275d",
+					"fee15add-7629-446f-afc0-d08c77c4fba9"
 				],
 				"name": "actionItem",
 				"parent": "57f4-201f-4bfc-5fc6"
@@ -22,24 +22,24 @@
 		},
 		{
 			"className": ".view .avatar",
-			"id": "f8717fa1-72f7-4f7c-8601-54dabd0a168b",
+			"id": "abb61443-cee0-41c6-b224-a8839ee2275d",
 			"props": {
 				"children": [
-					"20d63d45-7500-4282-a99b-a55a704d36c7"
+					"712ab3fa-5ee7-46cc-9e4b-0df1515c4339"
 				],
 				"name": "avatarContainer",
-				"parent": "f92278a7-815e-4320-ae9d-98c900fded59"
+				"parent": "12c8083d-1265-4596-a1e0-47e1583587f3"
 			},
 			"type": "View",
 			"userProps": {}
 		},
 		{
 			"className": ".image .avatar-image1",
-			"id": "20d63d45-7500-4282-a99b-a55a704d36c7",
+			"id": "712ab3fa-5ee7-46cc-9e4b-0df1515c4339",
 			"props": {
 				"children": [],
 				"name": "imgAvatar",
-				"parent": "f8717fa1-72f7-4f7c-8601-54dabd0a168b",
+				"parent": "abb61443-cee0-41c6-b224-a8839ee2275d",
 				"source": "garanti.png"
 			},
 			"type": "Image",
@@ -49,11 +49,11 @@
 		},
 		{
 			"className": ".text .actionItem-text1",
-			"id": "92be0d2e-7943-49d7-a823-54b9438aec5b",
+			"id": "fee15add-7629-446f-afc0-d08c77c4fba9",
 			"props": {
 				"children": [],
 				"name": "text1",
-				"parent": "f92278a7-815e-4320-ae9d-98c900fded59",
+				"parent": "12c8083d-1265-4596-a1e0-47e1583587f3",
 				"text": "Action"
 			},
 			"type": "Text",

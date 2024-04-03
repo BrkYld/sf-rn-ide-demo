@@ -37,5 +37,5 @@ export default (props: IPageProps) => {
     const pageViewStyle = mergedPageStyle;
     return (<View style={pageViewStyle}>
             <StatusBar />
-        <View key="pgContainer" style={[styles[".view"], styles["#pgEmpty-pgContainer"]]}></View></View>);
+        <View key="pgContainer" style={[styles[".view"], styles["#pgEmpty-pgContainer"]]}><View key="testContainer" style={[styles[".view"]]}/></View></View>);
 };

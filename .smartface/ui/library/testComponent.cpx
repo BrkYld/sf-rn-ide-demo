@@ -1,0 +1,19 @@
+{
+	"components": [
+		{
+			"className": ".view",
+			"id": "514f-768e-e980-d605",
+			"oldName": "view1",
+			"props": {
+				"children": [],
+				"name": "testComponent",
+				"parent": "57f4-201f-4bfc-5fc6"
+			},
+			"source": {
+				"page": "__library__"
+			},
+			"type": "View",
+			"userProps": {}
+		}
+	]
+}

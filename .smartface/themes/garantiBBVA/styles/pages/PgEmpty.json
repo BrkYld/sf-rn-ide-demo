@@ -3,5 +3,15 @@
     "flex": 1,
     "flexShrink": 1,
     "width": null
+  },
+  "#pgEmpty-testContainer": {
+    "width": 50,
+    "height": 50,
+    "backgroundColor": "#009142"
+  },
+  "#pgEmpty": {
+    "&-testContainer": {
+      "backgroundColor": "${mainColor}"
+    }
   }
 }
